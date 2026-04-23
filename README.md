@@ -39,6 +39,8 @@ Contains features like:
 ## 📈 Model Used
 Linear Regression
 
+![ml](https://github.com/rushikeshwalode06-cod/Stock-Price-Prediction-/blob/main/Stock%20Price%20Graph%20.jpeg?raw=true)
+
 ## 📉 Evaluation Metrics
 R² Score
 
