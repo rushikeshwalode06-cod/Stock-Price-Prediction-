@@ -6,6 +6,8 @@ Stock Price Prediction is a machine learning project that forecasts future stock
 
 Stock Price Prediction is a machine learning project that analyzes historical stock data such as open, high, low, close prices, volume, and trends to forecast future prices. The project helps in understanding market patterns and supports better investment decisions.
 
+![ml](https://github.com/rushikeshwalode06-cod/Stock-Price-Prediction-/blob/main/Stock%20price%20prediction.png?raw=true)
+
 ## 🚀 Features
 1. Data preprocessing and cleaning
 2. Model training using Linear Regression / Time-Series
