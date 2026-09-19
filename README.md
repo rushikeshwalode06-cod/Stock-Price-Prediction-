@@ -40,7 +40,7 @@ Contains features like:
 📊 Evaluate Model Performance
 
 ## 📈 Model Used
-**Linear Regression** 
+* **Linear Regression** 
 
 ![ml](https://github.com/rushikeshwalode06-cod/Stock-Price-Prediction-/blob/main/Stock%20Price%20Graph%20.jpeg?raw=true)
 
