@@ -47,6 +47,4 @@ Linear Regression
 R² Score
 
 ## 🎯 Conclusion
-
-This project demonstrates how machine learning can be used to predict stock prices by analyzing historical trends. While predictions may not be 100% accurate, the model provides valuable insights for understanding market behavior.
-
+This project demonstrates how machine learning can be used to predict stock prices by analyzing historical trends. While predictions may not be 100% accurate, the model provides valuable insights for understanding market behavior.This Stock Price Prediction project successfully uses Linear Regression to predict stock closing prices based on market features such as Open, High, Low, and Volume. The data is cleaned, split into training and testing sets, and the model is evaluated using the R² Score.
